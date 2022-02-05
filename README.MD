@@ -1,7 +1,7 @@
 # Lenguaje y automatas I
 
 En este repositorio serán incluidos ejercicios correspondientes a la materia de lenguaje y automatas I
-correspondiente a sexto semestre de Ingeniería en sistemas computacionales, considerando el plan de 
+siguiendo el plan de estudio del sexto semestre de Ingeniería en sistemas computacionales, considerando el plan de 
 estudio de TECNM.
 
 ## Notacíon para construir expresiones regulares
