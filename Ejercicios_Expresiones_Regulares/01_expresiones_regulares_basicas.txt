@@ -1,0 +1,27 @@
+Ejercicio 1:
+
+Escriba la expresión regular para el conjunto de cadenas que consisten en 0's y 1's alternados
+
+L={ ((0)(1))* | ((1)(0))* | (1)((0)(1))* }
+Ejemplos de cadenas que conforman el  lenguaje = {"01","0101,"010101","101,"1010}
+
+*****************************************************
+
+Ejercicio 2:
+Escriba la expresión regular  para todas las cadenas que consisten en cero o más ocurrencias de 01
+
+L={ ((0)(1))* }
+
+*****************************************************
+
+Ejercicio 3:
+Escriba la expresión regular  para todas las cadenas que comienzan con cero y terminan en 1
+
+L={ (0) [(0)|(1)]* (1) }
+
+*****************************************************
+
+Ejercicio 4:
+Escriba la expresión regular  para todas las cadenas que contegan cualquier cantidad de 0's y solo un uno.
+
+L= { [0]*(1)[0]* }
