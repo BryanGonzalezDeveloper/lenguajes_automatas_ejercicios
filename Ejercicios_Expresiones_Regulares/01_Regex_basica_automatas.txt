@@ -1,9 +1,9 @@
 Ejercicio 1:
 
-Escriba la expresión regular para el conjunto de cadenas que consisten en 0's y 1's altenados
+Escriba la expresión regular para el conjunto de cadenas que consisten en 0's y 1's alternados
 
-L={ ((0)(1))+ }
-Ejemplos de cadenas que conforman el  lenguaje = {"01","0101,"010101"}
+L={ ((0)(1))* | ((1)(0))* | (1)((0)(1))* }
+Ejemplos de cadenas que conforman el  lenguaje = {"01","0101,"010101","101,"1010}
 
 *****************************************************
 
